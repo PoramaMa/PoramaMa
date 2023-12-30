@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I do both a full-time job and freelance work, I can initiate and complete tasks independently. 
+I do both a full-time job and freelance work, I can initiate and complete tasks independently
+
 I have skills in: 
 - 3D modeling
 - Unity game development
